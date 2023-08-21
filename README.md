@@ -2,7 +2,7 @@ Hello everyone!
 
 This is based on some ideas over the HTML, CSS and JS whicw were I used to make my Portfolio effectively
 
-# gar_profile
+# model_portfolio
 
 Introduction to Building a Portfolio with HTML, CSS, and JavaScript
 
